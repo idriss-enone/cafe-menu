@@ -1,6 +1,7 @@
 body{
     background-image: url("../assets/images/beans.jpg");
     font-family: sans-serif;
+     padding: 20px;
 }
 .menu{
     width: 80%;
@@ -23,6 +24,8 @@ h1,h2,p{
 }
 .item p{
     display:inline-block;
+    margin-bottom: 5px;
+    font-size: 18px;
 }
 h1,h2{
     font-family: Impact,serif;
@@ -41,4 +44,25 @@ hr{
     background-color: brown;
     border-color: burlywood;
 }
+.bottom-line{
+    margin-top: 25px;
+}
 
+/** FOOTER */
+
+footer{
+    font-size: 14px;
+    font-style: normal
+}
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: brown;
+}
