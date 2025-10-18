@@ -71,7 +71,7 @@ Vous pouvez également **voir le résultat en ligne sur CodePen** :
 
 1. **Cloner le dépôt GitHub :**
    ```bash
-   git clone git clone https://github.com/idriss-enone/cafe-menu.git 
+   git clone https://github.com/idriss-enone/cafe-menu.git 
 
 2. Ouvrir le projet :
 
